@@ -1,1 +1,2 @@
 Configuracio inicial
+Nova configuracio de desenvolupament
